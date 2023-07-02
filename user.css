@@ -1,0 +1,29 @@
+/* Login and signup forms */
+
+.account-form button {
+  background-color: #008CBA;
+  color: white;
+}
+
+#signup-form button {
+  width: 8rem;
+}
+
+.account-forms-container {
+  width: 90%;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.account-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.account-form input {
+  margin-bottom: 1rem;
+}
+
+
